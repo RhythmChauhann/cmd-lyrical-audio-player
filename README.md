@@ -143,7 +143,8 @@ keyboard
 
 ## 🖤 Credits
 
-Made with ❤️ by Rhythm Chauhan.  
+Made with ❤️ by [Rhythm Chauhan](https://drive.google.com/file/d/1k0tRuopHbgVjSXUeMv2nLRxcDyeKvNJc/view?usp=sharing)
+.  
 Pixel-art banner & icon generated specifically for this repository.
 
 ---
