@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="650">
+  <img src="banner.png.png" width="650">
 </p>
 
 # ❤️ CMD Lyrical Audio Player  
